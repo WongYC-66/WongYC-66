@@ -1,6 +1,8 @@
 # 👋 Hi there , Im Yeng Chien!   ![](https://komarev.com/ghpvc/?username=ycwong-666&color=green)
 
-[![Learn more about me](https://img.shields.io/badge/Learn%20More%20about%20me-1F72C1?style=for-the-badge)](https://wongyc-66.github.io/website/)
+- Im a full-stack PERN developer.
+
+- [![Learn more about me](https://img.shields.io/badge/Learn%20More%20about%20me-1F72C1?style=for-the-badge)](https://wongyc-66.github.io/website/)
 
 #
 
@@ -8,6 +10,8 @@
 <!-- Langugages Badges -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 ### I rely on
 
@@ -34,4 +38,5 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WongYC-66)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongyc-66&layout=compact&theme=radical)
 
