@@ -1,6 +1,6 @@
 # 👋 Hi there , Im Yeng Chien!   ![](https://komarev.com/ghpvc/?username=ycwong-666&color=green)
 
-- Im a full-stack developer of PERN stack / Ruby On Rails
+- Im a full-stack developer of **PERN stack / Ruby on Rails**
 
 - [![Learn more about me](https://img.shields.io/badge/Learn%20More%20about%20me-1F72C1?style=for-the-badge)](https://wongyc-66.github.io/website/)
 
